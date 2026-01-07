@@ -7,7 +7,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 # Featured Projects
 - [LittleJS Engine](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine
 - [ZzFX Sound Effect Generator](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound FX System
-- [Tiny Code Experiments](https://github.com/KilledByAPixel/TinyCode) - Size Coding Magic
+- [Tiny Code Experiments](https://github.com/KilledByAPixel/TinyCode) - Programs with very small source code
 
 # Featured Games
 - [Driven Wild](https://www.newgrounds.com/portal/view/972740) - Procedural arcade driving game
