@@ -5,8 +5,8 @@ Frank is also known for JavaScript size coding, the art of making complete games
 When not making games, he enjoys cooking, gardening, learning Italian, playing guitar, and working on his house, where he lives with his wife and cat.
 
 # Featured Projects
-- [LittleJS Engine](https://github.com/KilledByAPixel/LittleJS) - Tiny fast HTML5 game engine [demos](https://killedbyapixel.github.io/LittleJS/examples/)
-- [ZzFX Sound Effect Generator](https://github.com/KilledByAPixel/ZzFX) - A Tiny JavaScript Sound FX System [editor](https://killedbyapixel.github.io/ZzFX/)
+- [LittleJS Engine](https://github.com/KilledByAPixel/LittleJS) - Tiny fast open source HTML5 game engine [demos](https://killedbyapixel.github.io/LittleJS/examples/)
+- [ZzFX Sound Effect Generator](https://github.com/KilledByAPixel/ZzFX) - Open source JavaScript Sound FX System [editor](https://killedbyapixel.github.io/ZzFX/)
 - [Tiny Code Experiments](https://github.com/KilledByAPixel/TinyCode) - Programs with very small source code
 
 # Featured Games
