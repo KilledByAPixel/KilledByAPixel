@@ -21,7 +21,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 
 # Featured Talks
 - [JavaScript Haikus](https://youtu.be/CagnRwPkw_M?si=U-Vtt8ydNfHDlP9z) – Live at Nerd Nite Austin 2024
-- [Making Awesome Games with LittleJS](https://gitnation.com/contents/making-awesome-games-with-littlejs) – JS GameDev Summit 2022
+- [Making Awesome Games with LittleJS](https://youtu.be/_dXKU0WgAj8?si=zRgmLb6SLCjREkmi) – JS GameDev Summit 2022
 - [Artist Spotlight: Frank Force](https://youtu.be/1IZVAt3Usu8?si=NvPUSl0SDQv5Y1-d) – Interview with 256Art 2023
 - [How to Make a Game in 48 Hours](https://youtu.be/D38NMqssXDw?si=msc_NLvr5VKip1Ap) – Live at MAGFest 2015
 - [How to Make a Game in 48 Hours Revisited](https://youtu.be/n45SHHVga-I?si=OSmrCM8mejjb_qqM) – Live at MAGFest 2018
