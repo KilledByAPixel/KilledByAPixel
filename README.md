@@ -6,11 +6,11 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 
 # Featured Projects
 - [LittleJS Engine](https://github.com/KilledByAPixel/LittleJS) - Tiny fast open source HTML5 game engine [demos](https://killedbyapixel.github.io/LittleJS/examples/)
-- [Lentando](https://github.com/KilledByAPixel/lentando) - Private habit and substance tracker [app](https://lentando.3d2k.com/)
 - [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings [demo](https://killedbyapixel.github.io/JSONCrush/)
 - [ZzFX Sound Effect Generator](https://github.com/KilledByAPixel/ZzFX) - Open source JavaScript Sound FX System [editor](https://killedbyapixel.github.io/ZzFX/)
 - [ZzArt - Abstract Art Evolution](https://github.com/KilledByAPixel/ZzArt) - Generate abstract art by evolving GLSL shaders [demo](https://zzart.3d2k.com/)
 - [Tiny Code Experiments](https://github.com/KilledByAPixel/TinyCode) - Programs with very small source code
+- [Lentando](https://github.com/KilledByAPixel/lentando) - Private habit and substance tracker [app](https://lentando.3d2k.com/)
 
 # Featured Games
 - [Driven Wild](https://www.newgrounds.com/portal/view/972740) - Procedural arcade driving game [source](https://github.com/KilledByAPixel/Drive13K)
