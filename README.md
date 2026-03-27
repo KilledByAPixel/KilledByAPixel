@@ -14,9 +14,9 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 
 # Featured Games
 - [Driven Wild](https://www.newgrounds.com/portal/view/972740) - Procedural arcade driving game [source](https://github.com/KilledByAPixel/Drive13K)
-- [Space Huggers](https://www.newgrounds.com/portal/view/819609) - Run and gun platformer roguelike [source](https://github.com/KilledByAPixel/SpaceHuggers)
+- [Space Huggers](https://www.newgrounds.com/portal/view/819609) - Run and gun platformer roguelike [source](https://github.com/KilledByAPixel/SpaceHuggers) [writeup](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 - [L1TTL3 PAWS](https://killedbyapixel.itch.io/l1ttl3-paws) - Physics based cat sliding game [source](https://github.com/KilledByAPixel/JS13K2025)
-- [Bounce Back](https://frankforce.com/bounce-back-postmortem/) - Retro boomerang roguelite adventure [source](https://github.com/KilledByAPixel/BounceBack)
+- [Bounce Back](https://www.newgrounds.com/portal/view/755171) - Retro boomerang roguelite adventure [source](https://github.com/KilledByAPixel/BounceBack) [writeup](https://frankforce.com/bounce-back-postmortem/)
 - [Bogus Roads](https://www.newgrounds.com/portal/view/747570) - Lowrez Retrowave Racing
 - [Undergrowth: A Tale From O Monolith](https://undergrowth.squidband.uk/) – Promo game for the band Squid
 
