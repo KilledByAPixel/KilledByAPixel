@@ -17,7 +17,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 - [Space Huggers](https://www.newgrounds.com/portal/view/819609) - Run and gun platformer roguelike [source](https://github.com/KilledByAPixel/SpaceHuggers) [writeup](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 - [L1TTL3 PAWS](https://killedbyapixel.itch.io/l1ttl3-paws) - Physics based cat sliding game [source](https://github.com/KilledByAPixel/JS13K2025)
 - [Bounce Back](https://www.newgrounds.com/portal/view/755171) - Retro boomerang roguelite adventure [source](https://github.com/KilledByAPixel/BounceBack) [writeup](https://frankforce.com/bounce-back-postmortem/)
-- [Bogus Roads](https://www.newgrounds.com/portal/view/747570) - Lowrez Retrowave Racing
+- [Bogus Roads](https://www.newgrounds.com/portal/view/747570) - Lowrez Retrowave Racing [music](https://soundcloud.com/user-298606692-17573752/sets/bogus-roads-soundtrack)
 - [Undergrowth: A Tale From O Monolith](https://undergrowth.squidband.uk/) – Promo game for the band Squid
 
 # Featured Talks
