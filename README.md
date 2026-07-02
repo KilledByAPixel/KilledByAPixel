@@ -6,7 +6,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 
 # Featured Projects
 - [LittleJS Engine](https://github.com/KilledByAPixel/LittleJS) - Tiny fast open source HTML5 game engine [demos](https://killedbyapixel.github.io/LittleJS/examples/)
-- [LittleJS Arcade](https://killedbyapixel.github.io/LittleJSArcade/) - A collection of 50+ classic arcade style games made with LittleJS
+- [LittleJS Arcade](https://github.com/KilledByAPixel/LittleJSArcade) - A collection of 50+ classic arcade style games made with LittleJS [app](https://killedbyapixel.github.io/LittleJSArcade/)
 - [Cosmodial Sky Atlas](https://github.com/KilledByAPixel/Cosmodial) - Night sky explorer and star map [app](https://killedbyapixel.github.io/Cosmodial/)
 - [ZzFX Sound Effect Generator](https://github.com/KilledByAPixel/ZzFX) - Open source JavaScript Sound FX System [editor](https://killedbyapixel.github.io/ZzFX/)
 - [JSONCrush](https://github.com/KilledByAPixel/JSONCrush) - Compress JSON into URL friendly strings [demo](https://killedbyapixel.github.io/JSONCrush/)
