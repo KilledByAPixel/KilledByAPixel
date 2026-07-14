@@ -1,6 +1,6 @@
-Frank Force is a game developer and artist based in Austin Texas, with 30+ years of experience making games. He has worked at studios including Rooster Teeth, Certain Affinity, Volition, and Midway Games, and also has independently released a large catalog of games and creative tools. He is the creator of the open source LittleJS game engine and ZzFX sound effects generator.
+Frank Force is a programmer and game developer based in Austin Texas, with 30+ years of experience. He has worked at studios including Rooster Teeth, Certain Affinity, Volition, and Midway Games, and also has independently released a large catalog of games and tools. He is the creator of the open source [LittleJS game engine](https://github.com/KilledByAPixel/LittleJS) and [ZzFX sound effects generator.](https://github.com/KilledByAPixel/ZzFX)
 
-Frank is also known for JavaScript size coding, the art of making complete games and programs in extremely small amounts of code, and has published over 1,000 tiny JavaScript demos. He also creates generative artwork with JavaScript code. In 2019, his project "The Dual Axis Illusion" won Optical Illusion of the Year.
+Frank has extensive programming experience in C++ and other languages, but is also known for JavaScript size coding and generative art. He is a master of size coding and has published over [1,000 tiny JavaScript demos.](https://github.com/KilledByAPixel/TinyCode) He has received considerable recognition for his work incuding winning [Best Illusion of the Year 2019](https://www.youtube.com/watch?v=HC0GGkNZPgs) with a JavaScript program.
 
 When not making games, he enjoys cooking, gardening, learning Italian, playing guitar, and working on his house, where he lives with his wife and cat.
 
