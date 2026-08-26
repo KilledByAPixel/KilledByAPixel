@@ -14,7 +14,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 - [ZzArt - Abstract Art Evolution](https://github.com/KilledByAPixel/ZzArt) - Generate abstract art by evolving GLSL shaders [demo](https://zzart.3d2k.com/)
 - [Tiny Code Experiments](https://github.com/KilledByAPixel/TinyCode) - Programs with very small source code
 - [Lentando](https://github.com/KilledByAPixel/lentando) - Private habit and substance tracker [app](https://lentando.3d2k.com/)
-- [fxhash archive](https://github.com/KilledByAPixel/fxhashArchive) - An archive and museum of fxhash on Tezos [app](https://killedbyapixel.github.io/fxhashArchive/)
+- [fxhash archive](https://github.com/KilledByAPixel/fxhashArchive) - An archive and museum of fxhash on Tezos [app](https://killedbyapixel.github.io/fxhashArchive/gallery)
 
 # Featured Games
 - [Driven Wild](https://www.newgrounds.com/portal/view/972740) - Procedural arcade driving game [source](https://github.com/KilledByAPixel/Drive13K)
