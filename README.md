@@ -17,6 +17,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 - [fxhash archive](https://github.com/KilledByAPixel/fxhashArchive) - An archive and museum of fxhash on Tezos [app](https://killedbyapixel.github.io/fxhashArchive/gallery)
 
 # Featured Games
+- [Sunshine Golf Classic](https://killedbyapixel.github.io/Golf13K/) - Chill minimal 3D golf [source](https://github.com/KilledByAPixel/Golf13K)
 - [Driven Wild](https://www.newgrounds.com/portal/view/972740) - Procedural arcade driving game [source](https://github.com/KilledByAPixel/Drive13K)
 - [Space Huggers](https://www.newgrounds.com/portal/view/819609) - Run and gun platformer roguelike [source](https://github.com/KilledByAPixel/SpaceHuggers) [writeup](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 - [L1TTL3 PAWS](https://killedbyapixel.itch.io/l1ttl3-paws) - Physics based cat sliding game [source](https://github.com/KilledByAPixel/JS13K2025)
