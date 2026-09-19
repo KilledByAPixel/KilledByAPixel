@@ -15,6 +15,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 - [Tiny Code Experiments](https://github.com/KilledByAPixel/TinyCode) - Programs with very small source code
 - [Lentando](https://github.com/KilledByAPixel/lentando) - Private habit and substance tracker [app](https://lentando.3d2k.com/)
 - [fxhash archive](https://github.com/KilledByAPixel/fxhashArchive) - An archive and museum of fxhash on Tezos [app](https://killedbyapixel.github.io/fxhashArchive/gallery)
+- [Arcobaleno](https://github.com/KilledByAPixel/Arcobaleno) - Italian language practice [app](https://killedbyapixel.github.io/Arcobaleno/) 
 
 # Featured Games
 - [SP13KTRA](https://killedbyapixel.github.io/SP13KTRA/) - Full spectrum racing [source](https://github.com/KilledByAPixel/SP13KTRA)
