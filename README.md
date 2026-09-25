@@ -26,6 +26,7 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 - [Bounce Back](https://www.newgrounds.com/portal/view/755171) - Retro boomerang roguelite adventure [source](https://github.com/KilledByAPixel/BounceBack) [writeup](https://frankforce.com/bounce-back-postmortem/)
 - [Bogus Roads](https://www.newgrounds.com/portal/view/747570) - Lowrez Retrowave Racing [music](https://soundcloud.com/user-298606692-17573752/sets/bogus-roads-soundtrack)
 - [Undergrowth: A Tale From O Monolith](https://undergrowth.squidband.uk/) – Promo game for the band Squid
+- [GoYumi](https://killedbyapixel.github.io/GoYomi/) - Learn Go on a 9×9 board with an AI coach. [source](https://github.com/KilledByAPixel/GoYomi)
 
 # Featured Talks
 - [JavaScript Haikus](https://youtu.be/CagnRwPkw_M?si=U-Vtt8ydNfHDlP9z) – Live at Nerd Nite Austin 2024
