@@ -21,6 +21,8 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 - [SP13KTRA](https://killedbyapixel.github.io/SP13KTRA/) - Full spectrum racing [source](https://github.com/KilledByAPixel/SP13KTRA)
 - [Sunshine Golf Classic](https://killedbyapixel.github.io/Golf13K/) - Chill minimal 3D golf [source](https://github.com/KilledByAPixel/Golf13K)
 - [Driven Wild](https://www.newgrounds.com/portal/view/972740) - Procedural arcade driving game [source](https://github.com/KilledByAPixel/Drive13K)
+- [Reversiology](https://killedbyapixel.github.io/Reversiology/) - Reversi game with built in coach [source](https://github.com/KilledByAPixel/Reversiology)
+- [GoYomi](https://killedbyapixel.github.io/GoYomi/) - Learn Go with a coach that explains moves [source](https://github.com/KilledByAPixel/GoYomi)
 - [Space Huggers](https://www.newgrounds.com/portal/view/819609) - Run and gun platformer roguelike [source](https://github.com/KilledByAPixel/SpaceHuggers) [writeup](https://frankforce.com/space-huggers-how-i-made-a-game-in-13-kilobytes/)
 - [L1TTL3 PAWS](https://killedbyapixel.itch.io/l1ttl3-paws) - Physics based cat sliding game [source](https://github.com/KilledByAPixel/JS13K2025)
 - [Bounce Back](https://www.newgrounds.com/portal/view/755171) - Retro boomerang roguelite adventure [source](https://github.com/KilledByAPixel/BounceBack) [writeup](https://frankforce.com/bounce-back-postmortem/)
