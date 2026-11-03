@@ -4,6 +4,8 @@ Frank has extensive programming experience in C++ and other languages, but is al
 
 When not making games, he enjoys cooking, gardening, learning Italian, playing guitar, and working on his house, where he lives with his wife and cat.
 
+[Check out my portfolio on GitHub.](https://killedbyapixel.github.io/)
+
 # Featured Projects
 - [LittleJS Engine](https://github.com/KilledByAPixel/LittleJS) - Tiny fast open source HTML5 game engine [demos](https://killedbyapixel.github.io/LittleJS/examples/)
 - [LittleJS Arcade](https://github.com/KilledByAPixel/LittleJSArcade) - A collection of 50+ classic arcade style games made with LittleJS [app](https://killedbyapixel.github.io/LittleJSArcade/)
