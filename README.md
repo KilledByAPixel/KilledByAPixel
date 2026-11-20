@@ -33,6 +33,16 @@ When not making games, he enjoys cooking, gardening, learning Italian, playing g
 - [Undergrowth: A Tale From O Monolith](https://undergrowth.squidband.uk/) – Promo game for the band Squid
 - [GoYumi](https://killedbyapixel.github.io/GoYomi/) - Learn Go on a 9×9 board with an AI coach. [source](https://github.com/KilledByAPixel/GoYomi)
 
+# Featured Artwork
+- [Astronomic Comics](https://frankforce.com/astronomic-comics-generative-comic-books/) A space comic book generator.
+- [ROIL](https://frankforce.com/roil/) - Abstract painting generator using a space filling algorithm.
+- [Dithered Branches](https://frankforce.com/dithered-branches/) - Generative landscapes from a lo-fi fantasy printer.
+- [Rad Impressions](https://frankforce.com/rad-impressions-on-256art/) - Realistic abstract 3D sculptures.
+- [Divide by Circle](https://frankforce.com/divide-by-circle/) - 3D art made from recursive subdivision.
+- [Auto Park](https://frankforce.com/auto-park-generative-abstract-parking/) - Aerial images of abstract parking lots.
+- [Tree Sky](https://frankforce.com/tree-skyness/) - Generative tree tops scenes
+- [Tilemoji](https://frankforce.com/tilemoji-tweetable-emoji-art/) - Tweetable abstract art using emojis.
+
 # Featured Talks
 - [JavaScript Haikus](https://youtu.be/CagnRwPkw_M?si=U-Vtt8ydNfHDlP9z) – Live at Nerd Nite Austin 2024
 - [Making Awesome Games with LittleJS](https://youtu.be/_dXKU0WgAj8?si=zRgmLb6SLCjREkmi) – JS GameDev Summit 2022
